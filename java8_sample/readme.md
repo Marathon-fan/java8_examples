@@ -1,6 +1,7 @@
 # java8
 
 ## 1 Lambda
+some examples.
 
 ## 2 Interface(Deafult Methods, @FunctionalInterface)
 
