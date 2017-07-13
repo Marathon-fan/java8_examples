@@ -4,6 +4,9 @@
 some examples.
 
 ## 2 Interface(Deafult Methods, @FunctionalInterface)
+Conceptually, a functional interface has exactly one abstract method. 
+The interface can also declare the abstract methods from the java.lang.Object class, but still the interface can be called as a Functional Interface.
+As can be seen in the example(functionalInterface_example1), when using lambda expression, the code is much shorter than that of using anonymous class.
 
 ## 4 Method References
 
