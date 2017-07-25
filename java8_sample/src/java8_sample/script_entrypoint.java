@@ -13,6 +13,7 @@ public class script_entrypoint {
 		}
 		functionalInterface_example1.static_run();
 		System.out.println("hello, world");
+		Complex.static_run();
 	}	
 
 }
