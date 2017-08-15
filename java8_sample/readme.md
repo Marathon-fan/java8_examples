@@ -12,7 +12,7 @@ As can be seen in the example(functionalInterface_example1), when using lambda e
 
 ## 5 Method Parameter Reflection
 
-## 6 Impreoved Type Inference
+## 6 Improved Type Inference
 
 ## 7 Type annotation
 
