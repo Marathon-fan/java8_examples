@@ -1,7 +1,8 @@
 # java8
 
 ## 1 Lambda
-<code>
+
+```
   Runnable oldRunner = new Runnable(){
       public void run(){
           System.out.println("I'm running");
@@ -10,7 +11,7 @@
   Runnable java8Runnable = () -> {
       System.out.println("I'm running");
   };
-</code>
+```
 
 
 ## 2 Interface(Deafult Methods, @FunctionalInterface)
