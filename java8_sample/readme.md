@@ -1,7 +1,17 @@
 # java8
 
 ## 1 Lambda
-some examples.
+<code>
+  Runnable oldRunner = new Runnable(){
+      public void run(){
+          System.out.println("I'm running");
+      }
+  };
+  Runnable java8Runnable = () -> {
+      System.out.println("I'm running");
+  };
+</code>
+
 
 ## 2 Interface(Deafult Methods, @FunctionalInterface)
 Conceptually, a functional interface has exactly one abstract method. 
